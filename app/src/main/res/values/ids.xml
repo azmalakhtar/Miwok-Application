@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rootView" type="id" />
+    <item name="list" type="id" />
+    <item name="number_list" type="id" />
+    <item name="color_list" type="id" />
+    <item name="family_list" type="id" />
+    <item name="phrase_list" type="id" />
+    <item name="word_list" type="id" />
+</resources>
